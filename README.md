@@ -1,3 +1,7 @@
+TODO: Port to Legacy Fabric.
+
+Original text:
+
 # ping
 Portal 2 like pinging on blocks and entities
 
